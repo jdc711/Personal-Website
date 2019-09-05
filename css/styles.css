@@ -5,6 +5,18 @@
   text-align: none;
 }
 
+.middle-container{
+  background-color: #b2fcff;
+}
+
+.Hobbies{
+  background-color: #d2fafb;
+}
+
+.bottom-container{
+  background-color: #b2fcff;
+}
+
 body{
   background-color: #ecfcff;
   margin:0px;
