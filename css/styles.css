@@ -35,6 +35,33 @@ margin-top: 50px;
     /*margin-bottom: 8px;*/
 }
 
+h1{
+ margin-top: 0px;
+}
+
+p{
+font-family: 'Amatic SC', cursive;
+font-weight: normal;
+font-size: 21px;
+}
+
+h2{
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+
+}
+h3{
+  font-family: 'Amatic SC', cursive;
+  font-size: 27px;
+   margin: 0px;
+}
+a{
+  font-weight: normal;
+  font-family: 'Amatic SC', cursive;
+  font-size: 21px;
+}
+
+
 div.projects{
     background-color: #ecf4f3;
   margin:  0px;
@@ -79,9 +106,4 @@ height: 400px;
   font-family: 'Kaushan Script', cursive;
 }
 
-h1{
-  margin-top: 0px;
-}
-h3{
-  margin: 0px;
-}
+
