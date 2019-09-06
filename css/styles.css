@@ -7,6 +7,7 @@
 
 .middle-container{
   background-color: #b2fcff;
+  text-align: center;
 }
 
 .Hobbies{
@@ -15,8 +16,29 @@
 
 .bottom-container{
   background-color: #b2fcff;
+text-align: center;
+}
+
+.headshot{
+  display: inline;
+  position: relative;
+
+margin-left: 30%;
+right:25%;
 
 }
+
+
+div.asa{
+  position: absolute;
+  display: inline;
+  text-align: center;
+  left: 30%;
+  right: 30%;
+  margin-top: 20px;
+}
+
+
 
 .btn{
   font-family: 'Amatic SC', cursive;
@@ -31,7 +53,8 @@ body{
   background-color: #ecfcff;
   margin:0px;
   display: block;
-  text-align: center;
+
+  /*text-align: center;*/
 }
 hr{
   border-style: none;
@@ -94,6 +117,9 @@ height: 400px;
 #pp{
   text-align: left;
   font-size: 23px;
+margin-left: 0%;
+margin-right: 0%;
+position: relative;
 
 }
 .welcome {
@@ -101,12 +127,7 @@ height: 400px;
   text-align: center;
   color: #b2fcff;
 }
-.asa{
-  position: relative;
-  left: 15%;
-  text-align: center;
 
-}
 
 #firstH {
 
@@ -116,5 +137,3 @@ height: 400px;
   transform: translate(-50%, -50%);
   font-family: 'Kaushan Script', cursive;
 }
-
-
